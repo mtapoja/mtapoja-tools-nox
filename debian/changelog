@@ -1,0 +1,12 @@
+mtapoja-tools-nox (0.1-2) precise; urgency=low
+
+  * gitk removed, it's -nox package after all.
+  * iftop and vim-nox added.
+
+ -- Mika Tapojärvi <mika.tapojarvi@embelin.fi>  Wed, 05 Mar 2014 12:18:38 +0200
+
+mtapoja-tools-nox (0.1-1) precise; urgency=low
+
+  * Packaging and first dependencies, the first release.
+
+ -- Mika Tapojärvi <mika.tapojarvi@embelin.fi>  Wed, 05 Mar 2014 11:30:26 +0200

@@ -1,0 +1,9 @@
+
+testing:
+debuild -us -uc -b
+
+build for upload:
+debuild -S -sa -k<gpgkey>
+
+upload:
+dput ppa:mtapoja/tools <source.changes>
