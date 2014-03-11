@@ -1,8 +1,9 @@
-mtapoja-tools-nox (0.1-3) UNRELEASED; urgency=low
+mtapoja-tools-nox (0.1-3lucid1) lucid; urgency=low
 
   * corkscrew added as a dependency.
+  * lucid branch added for older debhelper.
 
- -- Mika Tapojärvi <mika.tapojarvi@embelin.fi>  Tue, 11 Mar 2014 13:10:06 +0200
+ -- Mika Tapojärvi <mika.tapojarvi@embelin.fi>  Tue, 11 Mar 2014 13:36:55 +0200
 
 mtapoja-tools-nox (0.1-2) precise; urgency=low
 
