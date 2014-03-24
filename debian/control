@@ -8,6 +8,6 @@ Standards-Version: 3.9.3
 Package: mtapoja-tools-nox
 Architecture: any
 Depends: ${misc:Depends}, ${dist:Depends}, socat, git, dos2unix, htop, iftop, 
- vim-nox, corkscrew
+ vim-nox, corkscrew, tree
 Description: Metapackage for cool tools - no X
  This package pulls all the cool tools that can be used from command line.
