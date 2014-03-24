@@ -1,6 +1,6 @@
 mtapoja-tools-nox
 =================
 
-Tools, scripts etc. to a Ubuntu meta-package.
+Tools, scripts etc. for headless Ubuntu.
 
-Available for Ubuntu 12.04 precise at https://launchpad.net/~mtapoja/+archive/tools
+Available for a few Ubuntu releases at https://launchpad.net/~mtapoja/+archive/tools
